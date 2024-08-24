@@ -1,0 +1,6 @@
+Ao entrar no arquivo .py coloque o caminho para 
+leitura correta do arquivo .txt
+
+OBS: Usar aspas duplas (") e duas barras (\\)
+
+Abraço professor!
